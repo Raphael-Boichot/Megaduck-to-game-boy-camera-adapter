@@ -8,4 +8,4 @@ I advise to order the PCB at [JLCPCB.com](https://jlcpcb.com/) (just drop the ge
 ![](/PCB_Megaduck_to_Game_Boy_Camera/PCB%20back.png)
 
 ## Kind warning
-Not happy with the EasyEDA software ? Create your own, the licence allows it ! Polite feedbacks are of course always welcomed.
+Not happy with the EasyEDA software ? Create your own version, the licence allows it ! Polite feedbacks are of course always welcomed.
