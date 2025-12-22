@@ -6,6 +6,7 @@ I advise to order the PCB at [JLCPCB.com](https://jlcpcb.com/) (just drop the ge
 
 ![](/PCB_Megaduck_to_Game_Boy_Camera/PCB%20front.png)
 ![](/PCB_Megaduck_to_Game_Boy_Camera/PCB%20back.png)
+![](/Showcase.png)
 
 ## Kind warning
 Not happy with the EasyEDA software ? Create your own version, the licence allows it ! Polite feedbacks are of course always welcomed.
